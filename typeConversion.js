@@ -76,14 +76,18 @@
 
 // const isloggedIn = false
 // const outsideTemp = null
+
 // let userEmail;
-// const id = Symbol('123')
+
+// const id = Symbol('123')  // return type is symbol
+
 // const anotherID = Symbol('123') 
 
 // console.log(id === anotherID);
 
 // const bigNumber = 326452162745726818n
 // console.log(bigNumber);
+// console.log(typeof bigNumber);
 
 
 
@@ -117,6 +121,10 @@
 // console.log(typeof(heroes));
 
 // console.log(typeof(myObj));
+
+// console.log(+true);
+// console.log(+null);
+
 
 
 
